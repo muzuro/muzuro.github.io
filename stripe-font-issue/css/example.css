@@ -1,0 +1,19 @@
+.globalContent {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.customFontInput {
+    font-family: "GT Walsheim Pro Regular";
+    font-size: 25px;
+}
+
+.field {
+    margin-top: 5px;
+    padding: 0 2px;
+    border: 1px solid gray;
+}
