@@ -4,7 +4,7 @@
     var elements = stripe.elements({
         fonts: [
             {
-                cssSrc: 'http://db.onlinewebfonts.com/c/0abeb2471faeb5269db428b9eac2075e?family=GT+Walsheim+Pro+Regular',
+                cssSrc: 'https://muzuro.github.io/stripe-font-issue/css/fonts/fonts.css',
             },
         ],
     });
