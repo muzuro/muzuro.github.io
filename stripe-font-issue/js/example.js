@@ -10,7 +10,7 @@
     });
     var elementStyles = {
         base: {
-            fontFamily: 'GT Walsheim Pro Regular',
+            fontFamily: '"GT Walsheim Pro Regular"',
             fontSize: '25px',
         },
     };
